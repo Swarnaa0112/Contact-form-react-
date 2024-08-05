@@ -29,6 +29,4 @@ The Contact Page of this React application is crafted to facilitate seamless com
 
 This page is integral for users to easily reach out with inquiries, feedback, or support requests, ensuring clear and effective communication with our team.
 
----
 
-Feel free to adjust or add any details that are specific to your implementation or preferences!
