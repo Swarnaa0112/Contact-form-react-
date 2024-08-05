@@ -1,3 +1,9 @@
+👋 Hi, I’m Swarnaa Sree 👋
+-I’m enthusiastic about delving into the future and exploring cutting-edge technologies. 
+- Currently, I’m advancing my skills in these emerging fields.
+- I’m eager to collaborate on open-source projects that create a positive societal impact.
+Connect with-https://www.linkedin.com/in/swarnaa-sree-702133229/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
