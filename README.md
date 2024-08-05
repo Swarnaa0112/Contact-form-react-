@@ -1,5 +1,6 @@
-👋 Hi, I’m Swarnaa Sree 👋
--I’m enthusiastic about delving into the future and exploring cutting-edge technologies. 
+👋 Hi, I’m Swarnaa Sree 👋                                                                                                                                            
+
+- I’m enthusiastic about delving into the future and exploring cutting-edge technologies. 
 - Currently, I’m advancing my skills in these emerging fields.
 - I’m eager to collaborate on open-source projects that create a positive societal impact.
 Connect with-https://www.linkedin.com/in/swarnaa-sree-702133229/
